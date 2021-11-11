@@ -1,0 +1,6 @@
+W:\LTTS\WEBAPI\Activity3\Activity3DTO\bin\Debug\Activity3DTO.dll
+W:\LTTS\WEBAPI\Activity3\Activity3DTO\bin\Debug\Activity3DTO.pdb
+W:\LTTS\WEBAPI\Activity3\Activity3DTO\obj\Debug\Activity3DTO.csproj.AssemblyReference.cache
+W:\LTTS\WEBAPI\Activity3\Activity3DTO\obj\Debug\Activity3DTO.csproj.CoreCompileInputs.cache
+W:\LTTS\WEBAPI\Activity3\Activity3DTO\obj\Debug\Activity3DTO.dll
+W:\LTTS\WEBAPI\Activity3\Activity3DTO\obj\Debug\Activity3DTO.pdb
